@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise.csproj": {}
+    "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise\\Day13HexArchExercise.csproj": {}
   },
   "projects": {
-    "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise.csproj": {
+    "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise\\Day13HexArchExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise.csproj",
+        "projectUniqueName": "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise\\Day13HexArchExercise.csproj",
         "projectName": "Day13HexArchExercise",
-        "projectPath": "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise.csproj",
+        "projectPath": "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise\\Day13HexArchExercise.csproj",
         "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\obj\\",
+        "outputPath": "C:\\work\\formacao\\design-patterns\\day13\\Day13HexArchExercise\\Day13HexArchExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day13HexArchExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b07d7ed442a7a68a7e07259f38b5b06a7e3415c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day13HexArchExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day13HexArchExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
