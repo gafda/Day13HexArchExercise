@@ -1,3 +1,7 @@
+# Hexagonal Architecture Exercise
+
+![Exercise application Diagram](./Doc/Images/exercise-hex-arch.jpg)
+
 # Implementation of Primary Ports
 
 ## [ICreditController.cs](./Day13HexArchExercise/Primary/Interfaces/ICreditController.cs)
