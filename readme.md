@@ -61,20 +61,20 @@ List current credits of customer: 2
 
 ## Implementation of Secondary Ports
 
-### [ICreditRepository.cs](./Day13Hexercise/Secondary/Interfaces/ICreditRepository.cs)
+### [ICreditRepository.cs](./Day13HexArchExercise/Secondary/Interfaces/ICreditRepository.cs)
 
 > For storing and retrieving credit information from either a SQL or NoSQL databases.
 
-### [IInfoRequester.cs](./Day13Hexercise/Secondary/Interfaces/IInfoRequester.cs)
+### [IInfoRequester.cs](./Day13HexArchExercise/Secondary/Interfaces/IInfoRequester.cs)
 
 > For requesting information from internal and external entities.
 
 ## Implementation of Secondary Adapters
 
-### [ExternalInfoRequester.cs](./Day13Hexercise/Secondary/Adapters/ExternalInfoRequester.cs)
+### [ExternalInfoRequester.cs](./Day13HexArchExercise/Secondary/Adapters/ExternalInfoRequester.cs)
 
-### [InternalInfoRequester.cs](./Day13Hexercise/Secondary/Adapters/InternalInfoRequester.cs)
+### [InternalInfoRequester.cs](./Day13HexArchExercise/Secondary/Adapters/InternalInfoRequester.cs)
 
-### [NoSqlCreditRepository.cs](./Day13Hexercise/Secondary/Adapters/NoSqlCreditRepository.cs)
+### [NoSqlCreditRepository.cs](./Day13HexArchExercise/Secondary/Adapters/NoSqlCreditRepository.cs)
 
-### [SqlCreditRepository.cs](./Day13Hexercise/Secondary/Adapters/SqlCreditRepository.cs)
+### [SqlCreditRepository.cs](./Day13HexArchExercise/Secondary/Adapters/SqlCreditRepository.cs)
